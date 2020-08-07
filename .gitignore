@@ -1,0 +1,6 @@
+*
+!*.*
+!**/
+*.env
+/emojis/
+.DS_Store
